@@ -99,7 +99,6 @@ public class Character extends Mob {
             STATE=JUMP;
             lift=0;
         }
-
     }
 
     public void jumping(int delta){
